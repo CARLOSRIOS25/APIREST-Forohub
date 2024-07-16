@@ -1,5 +1,7 @@
 <h1> 🏆 API REST FOROHUB </h1>
 
+![Badge-Spring](https://github.com/user-attachments/assets/f551263e-902a-4949-862e-c02094255c3e)
+
 
 Descripción del Proyecto: API REST para un Foro de Tópicos
 
